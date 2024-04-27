@@ -213,7 +213,7 @@ print("反挂机开启")
 		   wait(1)
 		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 		end)
-local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/FUEx0f3G'))()
+local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Orion/main/source'))()
 local Window = OrionLib:MakeWindow({Name = "星云脚本", HidePremium = false, SaveConfig = true,IntroText = "欢迎使用星云脚本", ConfigFolder = "欢迎使用星云脚本"})
 local about = Window:MakeTab({
     Name = "公告",
