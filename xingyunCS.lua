@@ -1091,7 +1091,7 @@ Tab:AddButton({
   
   Callback = function()
   
-loadstring(game:HttpGet("https://pastebin.com/raw/Bsiri7N3"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dss3144/-G-B/main/%E9%BB%91%E7%81%AB%E8%8D%AF%E6%BA%90%E7%A0%81.lua"))()
 
     end
 
