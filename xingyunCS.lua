@@ -67,7 +67,7 @@ Start.TextSize = 10
 Start.TextWrapped = true
 
 Start.MouseButton1Click:Connect(function()
-    if Key.Text == "QWS53Y9Rp" then
+    if Key.Text == "XY1" then
         ScreenGui:Destroy()
         local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
